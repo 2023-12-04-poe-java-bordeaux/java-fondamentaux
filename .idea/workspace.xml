@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636dc595-ea42-43ba-853c-848085815a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point6TypeInference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point7Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point8ScannerInDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point9Conditions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +39,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point8ScannerInDepth">
-    <configuration name="Point3Affichage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point3Affichage" />
-      <module name="java-fondamentaux" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Point9Conditions">
     <configuration name="Point5KeyboardInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Point5KeyboardInput" />
       <module name="java-fondamentaux" />
@@ -77,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Point9Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point9Conditions" />
+      <module name="java-fondamentaux" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point9Conditions" />
         <item itemvalue="Application.Point8ScannerInDepth" />
         <item itemvalue="Application.Point7Math" />
         <item itemvalue="Application.Point6TypeInference" />
         <item itemvalue="Application.Point5KeyboardInput" />
-        <item itemvalue="Application.Point3Affichage" />
       </list>
     </recent_temporary>
   </component>
