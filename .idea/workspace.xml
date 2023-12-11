@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636dc595-ea42-43ba-853c-848085815a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point9Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point11AlternativesMultiples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point10ConditionAndBooleanType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point10ConditionAndBooleanType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +40,9 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point9Conditions">
-    <configuration name="Point5KeyboardInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point5KeyboardInput" />
+  <component name="RunManager" selected="Application.Point11AlternativesMultiples">
+    <configuration name="Point11AlternativesMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point11AlternativesMultiples" />
       <module name="java-fondamentaux" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point11AlternativesMultiples" />
         <item itemvalue="Application.Point9Conditions" />
         <item itemvalue="Application.Point8ScannerInDepth" />
         <item itemvalue="Application.Point7Math" />
         <item itemvalue="Application.Point6TypeInference" />
-        <item itemvalue="Application.Point5KeyboardInput" />
       </list>
     </recent_temporary>
   </component>

@@ -5,9 +5,12 @@ public class Point10ConditionAndBooleanType {
         Scanner input=new Scanner(System.in);
         System.out.print("Votre age : ");
 
+        final int AGE_MAJORITE=18;
+
         int age=input.nextInt();
 
-        boolean isMajeur=age>=18;
+        boolean isMajeur=age>=AGE_MAJORITE;
+
         if(isMajeur){
             System.out.println("Continuer....");
         }else {
