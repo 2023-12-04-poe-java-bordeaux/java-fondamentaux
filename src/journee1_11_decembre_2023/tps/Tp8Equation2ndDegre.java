@@ -20,7 +20,7 @@ public class Tp8Equation2ndDegre {
         if(a==0){
             System.err.println("Le coefficient de x² vaut 0. Ce n'est donc pas une" +
                     " équation du 2nd degré");
-            System.exit(1);
+            System.exit(1);// 0
         }
 
         System.out.printf("Equation de la forme %.1fx² + %.1fx + %.1f = 0 \n\n",a,b

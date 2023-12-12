@@ -7,10 +7,10 @@ public class Tp6Languages {
         var input = new Scanner(System.in);
 
         System.out.print("Votre langue : ");
-        var language = input.next();
+        var language = input.next();//FRench
 
         // Switch case : Lambdas
-        switch (language.toLowerCase()) {
+        switch (language.toLowerCase()) {//french
             case "english" -> System.out.println("Hello!!");
             case "french" -> System.out.println("Salut!!");
             case "spanish" -> System.out.println("Hola!!");

@@ -5,30 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636dc595-ea42-43ba-853c-848085815a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SUPPORT_JAVA_FONDAMENTAUX.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point12AndLogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/TPs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp10Calculatrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp1SurfaceCercle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp2AffichageInformations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp3Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp4DateNaissance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp5Polynomes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp6Languages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp7Parite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp8Equation2ndDegre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp9MoisAnnees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point1BoucleFor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point10ConditionAndBooleanType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point10ConditionAndBooleanType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point11AlternativesMultiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point11AlternativesMultiples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point1TypeNombres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point1TypeNombres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point2TypesText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point2TypesText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point3Affichage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point3Affichage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point5KeyboardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point5KeyboardInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point6TypeInference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point6TypeInference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point7Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point7Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point8ScannerInDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point8ScannerInDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point9Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/cours/Point9Conditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp6Languages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp6Languages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp7Parite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp7Parite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp8Equation2ndDegre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp8Equation2ndDegre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +46,12 @@
     "last_opened_file_path": "/Users/christianlisangola/Documents/formations/POE's/promotions/04-12-2023/module-java-poo/java-fondamentaux/src"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Tp2AffichageInformations">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Point1BoucleFor">
     <configuration name="Point11AlternativesMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="journee1_11_decembre_2023.cours.Point11AlternativesMultiples" />
       <module name="java-fondamentaux" />
@@ -80,15 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point8ScannerInDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee1_11_decembre_2023.cours.Point8ScannerInDepth" />
-      <module name="java-fondamentaux" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Point9Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee1_11_decembre_2023.cours.Point9Conditions" />
+    <configuration name="Point1BoucleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point1BoucleFor" />
       <module name="java-fondamentaux" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,13 +86,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tp9MoisAnnees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee1_11_decembre_2023.tps.Tp9MoisAnnees" />
+      <module name="java-fondamentaux" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee1_11_decembre_2023.tps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point1BoucleFor" />
+        <item itemvalue="Application.Tp9MoisAnnees" />
         <item itemvalue="Application.Tp2AffichageInformations" />
         <item itemvalue="Application.Point12AndLogicalOperator" />
         <item itemvalue="Application.Point11AlternativesMultiples" />
-        <item itemvalue="Application.Point9Conditions" />
-        <item itemvalue="Application.Point8ScannerInDepth" />
       </list>
     </recent_temporary>
   </component>

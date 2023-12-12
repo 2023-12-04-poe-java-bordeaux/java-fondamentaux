@@ -7,7 +7,8 @@ public class Tp7Parite {
         var input = new Scanner(System.in);
         System.out.print("Entrez un nombre entier : ");
         var number = input.nextInt();
-        String parity=number%2==0?"pair":"impair";
+        var parity=number%2==0?"pair":"impair";
+
 
         if (number > 0) {
             System.out.printf("%d est positif et %s",number,parity);
