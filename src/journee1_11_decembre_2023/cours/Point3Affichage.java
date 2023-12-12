@@ -1,3 +1,5 @@
+package journee1_11_decembre_2023.cours;
+
 public class Point3Affichage {
     public static void main(String[] args) {
         String firstName="Christian";

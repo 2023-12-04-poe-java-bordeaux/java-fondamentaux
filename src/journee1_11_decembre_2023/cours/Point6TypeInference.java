@@ -1,3 +1,5 @@
+package journee1_11_decembre_2023.cours;
+
 import java.util.Scanner;
 public class Point6TypeInference {
     public static void main(String[] args) {

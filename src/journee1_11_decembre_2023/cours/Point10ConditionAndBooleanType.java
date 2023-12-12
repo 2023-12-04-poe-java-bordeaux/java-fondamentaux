@@ -1,22 +1,22 @@
+package journee1_11_decembre_2023.cours;
+
 import java.util.Scanner;
 
-public class Point9Conditions {
+public class Point10ConditionAndBooleanType {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.print("Votre age : ");
 
+        final int AGE_MAJORITE=18;
+
         int age=input.nextInt();
 
-        if(age>=18){
+        boolean isMajeur=age>=AGE_MAJORITE;
+
+        if(isMajeur){
             System.out.println("Continuer....");
         }else {
             System.out.println("Au revoir.");
         }
-
-//        if(age>18 || age==18){
-//            System.out.println("Vous pouvez voter.");
-//        }else {
-//            System.out.println("Vous ne pouvez pas voter.");
-//        }
     }
 }
