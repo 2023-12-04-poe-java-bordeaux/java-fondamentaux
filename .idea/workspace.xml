@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636dc595-ea42-43ba-853c-848085815a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point1BoucleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point1Exo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tp1TableMultiplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp6Languages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp6Languages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp7Parite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp7Parite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp8Equation2ndDegre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp8Equation2ndDegre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +49,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Point1BoucleFor">
-    <configuration name="Point11AlternativesMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee1_11_decembre_2023.cours.Point11AlternativesMultiples" />
-      <module name="java-fondamentaux" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Point1Exo">
     <configuration name="Point12AndLogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="journee1_11_decembre_2023.cours.Point12AndLogicalOperator" />
       <module name="java-fondamentaux" />
@@ -68,6 +59,13 @@
     </configuration>
     <configuration name="Point1BoucleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Point1BoucleFor" />
+      <module name="java-fondamentaux" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point1Exo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point1Exo" />
       <module name="java-fondamentaux" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point1Exo" />
         <item itemvalue="Application.Point1BoucleFor" />
         <item itemvalue="Application.Tp9MoisAnnees" />
         <item itemvalue="Application.Tp2AffichageInformations" />
         <item itemvalue="Application.Point12AndLogicalOperator" />
-        <item itemvalue="Application.Point11AlternativesMultiples" />
       </list>
     </recent_temporary>
   </component>
