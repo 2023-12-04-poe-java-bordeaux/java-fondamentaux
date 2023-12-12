@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636dc595-ea42-43ba-853c-848085815a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point1Exo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tp1TableMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tp2PlusieursTableMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tp3Factorielle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tp3FactorielleBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tp4FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,21 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Point1Exo">
-    <configuration name="Point12AndLogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee1_11_decembre_2023.cours.Point12AndLogicalOperator" />
-      <module name="java-fondamentaux" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Point1BoucleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point1BoucleFor" />
-      <module name="java-fondamentaux" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Tp3FactorielleBonus">
     <configuration name="Point1Exo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Point1Exo" />
       <module name="java-fondamentaux" />
@@ -71,39 +59,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp2AffichageInformations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee1_11_decembre_2023.tps.Tp2AffichageInformations" />
+    <configuration name="Tp2PlusieursTableMultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp2PlusieursTableMultiplication" />
       <module name="java-fondamentaux" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="journee1_11_decembre_2023.tps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp9MoisAnnees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee1_11_decembre_2023.tps.Tp9MoisAnnees" />
+    <configuration name="Tp3Factorielle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp3Factorielle" />
       <module name="java-fondamentaux" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="journee1_11_decembre_2023.tps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tp3FactorielleBonus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp3FactorielleBonus" />
+      <module name="java-fondamentaux" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tp4FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp4FizzBuzz" />
+      <module name="java-fondamentaux" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tp3FactorielleBonus" />
+        <item itemvalue="Application.Tp4FizzBuzz" />
+        <item itemvalue="Application.Tp3Factorielle" />
+        <item itemvalue="Application.Tp2PlusieursTableMultiplication" />
         <item itemvalue="Application.Point1Exo" />
-        <item itemvalue="Application.Point1BoucleFor" />
-        <item itemvalue="Application.Tp9MoisAnnees" />
-        <item itemvalue="Application.Tp2AffichageInformations" />
-        <item itemvalue="Application.Point12AndLogicalOperator" />
       </list>
     </recent_temporary>
   </component>
