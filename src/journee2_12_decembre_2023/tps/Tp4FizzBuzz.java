@@ -1,3 +1,5 @@
+package journee2_12_decembre_2023.tps;
+
 import java.util.Scanner;
 
 public class Tp4FizzBuzz {

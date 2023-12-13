@@ -1,3 +1,5 @@
+package journee2_12_decembre_2023.cours;
+
 public class Point1BoucleFor {
     public static void main(String[] args) {
         // Pour i allant de 0 à 12 pas 1
