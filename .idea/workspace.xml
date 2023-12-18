@@ -5,69 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636dc595-ea42-43ba-853c-848085815a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/cours/Point1TableauxDynamiques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/cours/Point2TableauxDynamiquesEnPratique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/cours/Point3ArrayListEnAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/cours/Point4Methodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/tps/TPs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/tps/Tp1SurfaceCercle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/tps/Tp2CelsiusFarhrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/tps/Tp3SumArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/tps/Tp4SupprimerLangages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/Avion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/ExampleStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/GestionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/MemoryStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/MethodesEtExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/tps/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/tps/TPs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/tps/Tp1Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/tps/Tp2Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/tps/Tp3Tirelire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v1/Guerrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v1/Magicien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v1/Sorcier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v1/Voleur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/DelegueDeClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Guerrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Magicien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Personnage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Sorcier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Voleur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux/Chien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux2/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux2/Chien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux3/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux3/Chien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/batiments/Batiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/batiments/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/batiments/Maison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/vehicules/Camion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/vehicules/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/vehicules/Vehicule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/vehicules/Voiture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Guerrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/ICombattre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Magicien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Npc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Personnage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Sorcier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Voleur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SUPPORT_INTRO_POO_JAVA.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Supports/SUPPORT_INTRO_POO_JAVA.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SUPPORT_JAVA_FONDAMENTAUX.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Supports/SUPPORT_JAVA_FONDAMENTAUX.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp5NotesPhysiqueV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp5NotesPhysiqueV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tps.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/TPs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recap.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
