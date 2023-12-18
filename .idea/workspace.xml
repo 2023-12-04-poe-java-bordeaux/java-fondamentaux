@@ -5,24 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="636dc595-ea42-43ba-853c-848085815a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/Tp6LanguagesWithEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/cours/Point2BoucleWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/cours/Point3BoucleWhileFacto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/cours/Point4Tableaux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/cours/Point5TableauxSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/ExplicationWhileTrue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp5NotesPhysiqueV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp5NotesPhysiqueV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp6CodePin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/cours/Point1TableauxDynamiques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/cours/Point2TableauxDynamiquesEnPratique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/cours/Point3ArrayListEnAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/cours/Point4Methodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/tps/TPs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/tps/Tp1SurfaceCercle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/tps/Tp2CelsiusFarhrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/tps/Tp3SumArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee3_13_decembre_2023/tps/Tp4SupprimerLangages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/ExampleStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/GestionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/MemoryStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/cours/MethodesEtExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/tps/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/tps/TPs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/tps/Tp1Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/tps/Tp2Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee4_14_decembre_2023/tps/Tp3Tirelire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v1/Guerrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v1/Magicien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v1/Sorcier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v1/Voleur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/DelegueDeClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Guerrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Magicien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Personnage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Sorcier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v2/Voleur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux/Chien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux2/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux2/Chien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux3/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux3/Chien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/batiments/Batiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/batiments/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/batiments/Maison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/vehicules/Camion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/vehicules/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/vehicules/Vehicule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/vehicules/Voiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Guerrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/ICombattre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Magicien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Npc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Personnage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Sorcier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee6_18_decembre_2023/jeu_video_v2/Voleur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point1BoucleFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/cours/Point1BoucleFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point1Exo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/cours/Point1Exo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1TableMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp1TableMultiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp2PlusieursTableMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp2PlusieursTableMultiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp3Factorielle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp3Factorielle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp3FactorielleBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp3FactorielleBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp4FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp4FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SUPPORT_INTRO_POO_JAVA.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Supports/SUPPORT_INTRO_POO_JAVA.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SUPPORT_JAVA_FONDAMENTAUX.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Supports/SUPPORT_JAVA_FONDAMENTAUX.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp5NotesPhysiqueV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tp5NotesPhysiqueV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/Tps.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps/TPs.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +77,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,9 +88,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ZO6k4bJgh9OX0xC1SfbFCsjXLh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,26 +102,31 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/christianlisangola/Documents/formations/POE's/promotions/04-12-2023/module-java-poo/java-fondamentaux/src"
+    "last_opened_file_path": "/Users/christianlisangola/Documents/formations/POE's/promotions/04-12-2023/module-java-poo/java-fondamentaux/src/journee6_18_decembre_2023"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/journee6_18_decembre_2023" />
+      <recent name="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux3" />
+      <recent name="$PROJECT_DIR$/src/journee5_15_decembre_2023/tps/animaux2" />
+      <recent name="$PROJECT_DIR$/src/journee5_15_decembre_2023/jeu_video_v3" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Supports" />
       <recent name="$PROJECT_DIR$/src/journee1_11_decembre_2023/tps/resources" />
       <recent name="$PROJECT_DIR$/src/journee2_12_decembre_2023/tps" />
       <recent name="$PROJECT_DIR$/src/journee2_12_decembre_2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExplicationWhileTrue">
-    <configuration name="ExplicationWhileTrue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee2_12_decembre_2023.tps.ExplicationWhileTrue" />
+  <component name="RunManager" selected="Application.journee6_18_decembre_2023.jeu_video_v2.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b.Main" />
       <module name="java-fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee2_12_decembre_2023.tps.*" />
+          <option name="PATTERN" value="b.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,19 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestExceptions" />
-      <module name="java-fondamentaux" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tp5NotesPhysiqueV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee2_12_decembre_2023.tps.Tp5NotesPhysiqueV1" />
+    <configuration name="a.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a.Main" />
       <module name="java-fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee2_12_decembre_2023.tps.*" />
+          <option name="PATTERN" value="a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +147,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp5NotesPhysiqueV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee2_12_decembre_2023.tps.Tp5NotesPhysiqueV2" />
+    <configuration name="journee5_15_decembre_2023.jeu_video_v2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee5_15_decembre_2023.jeu_video_v2.Main" />
+      <module name="java-fondamentaux" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="journee5_15_decembre_2023.jeu_video_v3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee5_15_decembre_2023.jeu_video_v3.Main" />
       <module name="java-fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee2_12_decembre_2023.tps.*" />
+          <option name="PATTERN" value="journee5_15_decembre_2023.jeu_video_v3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp6CodePin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee2_12_decembre_2023.tps.Tp6CodePin" />
+    <configuration name="journee6_18_decembre_2023.jeu_video_v2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee6_18_decembre_2023.jeu_video_v2.Main" />
       <module name="java-fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee2_12_decembre_2023.tps.*" />
+          <option name="PATTERN" value="journee6_18_decembre_2023.jeu_video_v2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExplicationWhileTrue" />
-        <item itemvalue="Application.Tp6CodePin" />
-        <item itemvalue="Application.Tp5NotesPhysiqueV2" />
-        <item itemvalue="Application.Tp5NotesPhysiqueV1" />
-        <item itemvalue="Application.TestExceptions" />
+        <item itemvalue="Application.journee6_18_decembre_2023.jeu_video_v2.Main" />
+        <item itemvalue="Application.journee5_15_decembre_2023.jeu_video_v3.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.a.Main" />
+        <item itemvalue="Application.journee5_15_decembre_2023.jeu_video_v2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -149,5 +200,12 @@
       <updated>1702280917438</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="password" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

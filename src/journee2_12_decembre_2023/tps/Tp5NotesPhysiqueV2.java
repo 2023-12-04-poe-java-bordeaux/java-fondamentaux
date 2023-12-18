@@ -21,13 +21,13 @@ public class Tp5NotesPhysiqueV2 {
         double somme = 0;
         int nombreDeNotesValides = 0;
 
-        for (String noteString : notesString) {
+        for (String noteString : notesString) {//[1,2,3,4,5] => noteString=12
             Scanner noteScanner = new Scanner(noteString);
-            if (noteScanner.hasNextDouble()) {
-                double note = noteScanner.nextDouble();
+            if (noteScanner.hasNextDouble()) {//true
+                double note = noteScanner.nextDouble();// 12.0
                 if (note >= 0 && note <= 20) {
                     somme += note;
-                    nombreDeNotesValides++;
+                    nombreDeNotesValides++;// 5
                 } else {
                     System.out.println("Note invalide (doit être entre 0 et 20) : " + note);
                 }
